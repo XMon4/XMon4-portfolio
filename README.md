@@ -11,7 +11,7 @@ Strong understanding of gameplay mechanics, UI systems, and enemy behavior scrip
 A 2D arcade-style Unity game where players destroy modular enemy parts while dodging attacks.  
 🛠 Unity | C#  
 🎯 Focus: enemy logic, health systems, UI, and player controls  
-<img src="https://github.com/XMon4/galanity-space-shooter/blob/main/screenshot.png?raw=true" width="400"/>
+<img src="https://raw.githubusercontent.com/XMon4/galanity-space-shooter/main/screenshot.png" width="400"/>
 
 ---
 
