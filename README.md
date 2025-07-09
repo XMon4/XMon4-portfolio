@@ -11,14 +11,14 @@ Strong understanding of gameplay mechanics, UI systems, and enemy behavior scrip
 A 2D arcade-style Unity game where players destroy modular enemy parts while dodging attacks.  
 🛠 Unity | C#  
 🎯 Focus: enemy logic, health systems, UI, and player controls  
-![Galanity Screenshot](https://github.com/XMon4/galanity-space-shooter/blob/main/screenshot.png)
+<img src="https://github.com/XMon4/galanity-space-shooter/blob/main/screenshot.png?raw=true" width="400"/>
 
 ---
 
-### 🧠 [MemoMe – Flashcard Quiz App](https://github.com/XMon4/MemoMe)
-Mobile quiz app that helps users memorize concepts with multiple-choice questions and score tracking.  
-🛠 Android Studio | Java  
-🎯 Focus: gamified learning flow, mobile UI, quiz logic
+### 🧠 [MemoMe – Flashcard Quiz App](https://github.com/XMon4/MemoMe_flutter)
+Mobile quiz app that helps users memorize concepts through multiple-choice questions and point-based feedback.  
+🛠 Flutter | Dart  
+🎯 Focus: gamified learning flow, cross-platform UI, score logic  
 <img src="https://github.com/XMon4/MemoMe_flutter/blob/main/assets/screenshots/main.png?raw=true" width="400"/>
 
 ---
