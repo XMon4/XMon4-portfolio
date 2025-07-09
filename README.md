@@ -19,7 +19,7 @@ A 2D arcade-style Unity game where players destroy modular enemy parts while dod
 Mobile quiz app that helps users memorize concepts through multiple-choice questions and point-based feedback.  
 🛠 Flutter | Dart  
 🎯 Focus: gamified learning flow, cross-platform UI, score logic  
-<img src="https://github.com/XMon4/MemoMe_flutter/blob/main/assets/screenshots/main.png?raw=true" width="400"/>
+<img src="https://raw.githubusercontent.com/XMon4/MemoMe_flutter/main/screenshot.png" width="400"/>
 
 ---
 
