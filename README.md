@@ -19,8 +19,8 @@ A 2D arcade-style Unity game where players destroy modular enemy parts while dod
 Mobile quiz app that helps users memorize concepts with multiple-choice questions and score tracking.  
 🛠 Android Studio | Java  
 🎯 Focus: gamified learning flow, mobile UI, quiz logic
-![image](https://github.com/user-attachments/assets/5a498ee5-20f9-4e0e-961f-0b7fa5e07308)
-
+[![image](https://github.com/user-attachments/assets/5a498ee5-20f9-4e0e-961f-0b7fa5e07308)
+](https://private-user-images.githubusercontent.com/103663910/464162773-5a498ee5-20f9-4e0e-961f-0b7fa5e07308.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTIwNjM1MzksIm5iZiI6MTc1MjA2MzIzOSwicGF0aCI6Ii8xMDM2NjM5MTAvNDY0MTYyNzczLTVhNDk4ZWU1LTIwZjktNGUwZS05NjFmLTBiN2ZhNWUwNzMwOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcwOVQxMjEzNTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMjg4ZDA1NmJhMWU3OThlNjdkZTA0N2FjZDFiZTNkMGM5NTgwNWM3OTZkODA3OGJmMTdjNDZhOWJhNjllNzJkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.l8y9Xg9QOx_q18PcRezOIIdJTAWs_aanJOlaF0aEbyE)
 ---
 
 ## 🧰 Skills & Tools
